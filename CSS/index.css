@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding: 2px;;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}.main-header{
+    background-image: url(/IMAGE/sunset.jpg) ;
+    height: 4000px;
+    width: 100%;
+background-repeat: no-repeat;
+background-size: 100%
+ 
+}.header-top{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+ 
+}img{
+    height: 300px;
+    width: 300px;
+    margin-top: 150px;
+    margin-left: 700px;
+    position: absolute;
+}h1{
+    position:absolute
+    height: 200px;
+    width: 500px;
+    margin-left: 700px;
+}p{
+    height: 5px;
+    width: 175px;
+    margin-top: 500px;
+    margin-left: 700px; 
+
+}a{
+    position: absolute;
+    height: 100px;
+    width: 300px;
+ margin-left: 200px ;
+ margin-top: 50px;
+
+}

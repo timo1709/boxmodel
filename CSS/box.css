@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.main-header{
+    height: 40px;
+    width: 1355px;
+    margin-left: 7px;
+    margin-top: 2px;
+  background-color:white;
+background-size: cover;
+  
+
+}body{
+background-color: grey;
+}
+a{
+ padding: 10px;
+  width: 100%;
+  margin: auto;
+  background-size: cover;
+  
+}ul {
+  list-style-type: none;
+  margin: auto;
+  padding: 10px;
+  
+  
+}
+
+li {
+  float:left;
+}
+
+li a {
+
+  display: inline;
+  color: black;
+  text-align:center ;
+  padding: 25px;
+  text-decoration: none;
+  text-align: justify;
+}
+
+ input[type=text] {
+  float:right;
+ }.bgacad{
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 8px;
+  width: 1347px;
+ }.academy{
+  margin-left: 15px;
+  margin-top: 30px;
+  height: 350px;
+ }
+ img{
+  margin-top: 23px;
+ }.bg{
+  background-color: white;
+  margin: auto;
+  margin-top: 30px;
+  padding: 5px;
+  width: 310px;
+  height: 700px;
+ }.card{
+  position: relative;
+
+ }.bg{
+  float: left;
+ margin-left: 17px;
+ 
+ }div.card{
+  margin-left: 0px
+ }.c{
+  margin-left: 5px;
+  height: 420px;
+ }p{
+  margin-top: 40px;
+
+ }.bg4{
+  background-color: white;
+  width: 530px;
+  height: 380px;
+  margin-left: 8px;
+  margin-top: 760px;
+  position: absolute;
+ }.cardbot{
+margin-left: 10px;
+ }.cardbot2{
+position: absolute;
+  margin-top:230px;
+ }
+ 
+ 
+ 
